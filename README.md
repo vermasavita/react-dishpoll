@@ -22,7 +22,7 @@ https://user-images.githubusercontent.com/82254618/192690280-41d15343-9e59-497a-
   - If another dish is with the same rank the other dish lose its rank
   
 - Result Dashboard
- - User can see the rank results after voting
+   - User can see the rank results after voting
  
 ## **⚙️ Built With**
 
