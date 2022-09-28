@@ -1,7 +1,7 @@
 
 # Dish Poll
 
-Dish Poll is app here user hast to vote 3 dishes and can see the rank wise dashboard. 
+Dish Poll is app here user can make a selection of 3 dishes from the poll and see the ranks in dashboard. 
 
 
 
